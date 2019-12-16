@@ -1,4 +1,5 @@
-warning: LF will be replaced by CRLF in test.md. (Whitespace 에러)
+### Whitespace 에러
+```warning: LF will be replaced by CRLF in test.md. ```
 
 <details><summary>CLICK ME</summary>
 
