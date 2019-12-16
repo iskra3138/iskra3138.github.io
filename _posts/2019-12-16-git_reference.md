@@ -10,7 +10,7 @@ for linux or mac
 git config --global core.autocrlf true input
 ```
 
-변환 기능을 원하지 않고, 그냥 에러 메시지 끄고 알아서 작업하고 싶은 경우
+에러 메시지만 끌 경우
 ```bash
 git config --global core.safecrlf false
 ```
