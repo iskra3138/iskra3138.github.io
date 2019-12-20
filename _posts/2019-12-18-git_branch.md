@@ -43,7 +43,7 @@
     - 'HEAD'를 이동하면 사용하는 branch가 변경됨
     - ~(틸드) 기호와 숫자를 'HEAD'뒤에 붙여 몇 세대 앞의 commit을 가리킬 수 있음
     - ^(캐럿)은 branch 병합에서 원본이 여럿 있는 경우 몇 번째 원본인지를 지정할 수 있음
-    <img src="HEAD.jpg" width="70%" height="70%" title="" alt=""></img>
+    <img src="/~posts/HEAD.jpg" width="70%" height="70%" title="" alt=""></img>
 
 - stash
     - commit하지 않은 변경 내용이나 새롭게 추가한 파일이 index와 work tree에 남아 있는 채로 다른 branch로 전환(checkout)하면, 기존 branch가 아닌 전환된 branch에서 commit할 수 있음
