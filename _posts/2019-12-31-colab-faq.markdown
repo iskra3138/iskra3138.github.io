@@ -1,12 +1,12 @@
 # 자주 묻는 질문(FAQ)
 
-## Colaboratory란 무엇인가요?
+### Colaboratory란 무엇인가요?
 Colaboratory는 머신러닝 교육과 연구를 위한 연구 도구입니다. Jupyter 노트 환경이므로 설치 없이도 사용할 수 있습니다.
 
-## 어떤 브라우저가 지원되나요?
+### 어떤 브라우저가 지원되나요?
 Colaboratory는 대부분의 주요 브라우저와 호환되며 특히 Chrome, Firefox, Safari의 최신 버전을 대상으로 가장 철저하게 테스트되었습니다.
 
-## 무료로 사용할 수 있나요?
+### 무료로 사용할 수 있나요?
 예. Colaboratory는 무료로 사용할 수 있는 연구 프로젝트입니다.
 
 ## Jupyter와 Colaboratory는 어떻게 다른가요?
